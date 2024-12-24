@@ -3,7 +3,7 @@
 // HardwareMonitor.cpp
 #include <iostream>
 #include "MonitorGraph.h"
-#include "Logger.h"
+#include "Utils/Logger.h"
 
 // Função de teste para exportação
 void ExampleFunction() {
